@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**nahid78777/nahid78777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nahid, a cybersecurity learner.
 
-Here are some ideas to get you started:
+I’m interested in bug bounty, web security, and penetration testing.  
+Currently learning and practicing with Kali Linux and security tools.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my profile where I'll upload small projects, labs, and things I'm learning.  
+Everything here is part of my journey.
+
+---
+### 🛠️ Tools & Tech
+- Kali Linux    
+- Burp Suite  
+- Git & GitHub    
+---
+
+### ⚡ A Bit About Me
+- 💻 Beginner in cybersecurity  
+- 🎯 Goal: Become a SOC Analyst  
+- 📚 Learning bug bounty & web security  
+- 🚀 Always trying to improve

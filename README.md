@@ -15,8 +15,8 @@ Everything here is part of my journey.
 - Git & GitHub    
 ---
 
-### ⚡ A Bit About Me
-- 💻 Beginner in cybersecurity  
+### ⚡ A Bit About Me  
 - 🎯 Goal: Become a SOC Analyst  
+- 🎌 Interested in anime   
 - 📚 Learning bug bounty & web security  
-- 🚀 Always trying to improve
+- 🚀 Always improving and exploring
